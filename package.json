@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Scumsy.github.io/JS-small-cases-and-templates/",
+  "homepage": "https://scumsy.github.io/JS-small-cases-and-templates/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /JS-small-cases-and-templates/"
